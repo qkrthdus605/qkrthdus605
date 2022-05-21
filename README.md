@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there!
 
 <br>
 <br>
@@ -31,14 +31,17 @@
   <img src= "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 </div>
+<br>
+<br>
 <div align=left><h3>💜Team Collaboration Tool</h3></div>
 <div align=left>
-<br>
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/Notion-%23121011.svg?style=for-the-badge&logo=Notion&logoColor=yellow">
  <img src="https://img.shields.io/badge/Slack-%23121011.svg?style=for-the-badge&logo=Slack&logoColor=blue">
 <br>
 <br>
+<div align=left><h3>My Note</h3></div>
+[Velog]([http://www.google.co.kr](https://velog.io/@qkrthdus605)).
 <br>
 <br>
 <br>
