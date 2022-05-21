@@ -42,7 +42,9 @@
 <br>
 <br>
 <div align=left><h3>My Note</h3></div>
+  
 [Velog](https://velog.io/@qkrthdus605)
+
 <br>
 <br>
 <br>
