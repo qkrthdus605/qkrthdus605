@@ -4,20 +4,18 @@
 <br>
 <div align=left><h2>🛠Tech STACKS🛠</h2></div>
 </div>
-<div align=left><h3>🧡Languages</h3></div>
+<div align=left><h3>🧡Languages&Framework</h3></div>
 <div align=left>
 <br>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/next-61DAFB?style=for-the-badge&logo=next&logoColor=red">
+  <img src="https://img.shields.io/badge/express-61DAFB?style=for-the-badge&logo=express&logoColor=blue">
+  <br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-<br>
-<br>
-<div align=left><h3>💙FrameWork</h3></div>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/next-61DAFB?style=for-the-badge&logo=next&logoColor=red">
 <br>
 <br>
 <div align=left><h3>💛Design</h3></div>
@@ -43,7 +41,7 @@
 <br>
 <div align=left><h3>My Note</h3></div>
   
-[Velog](https://velog.io/@qkrthdus605)
+[Soyeon's Velog](https://velog.io/@qkrthdus605)
 
 <br>
 <br>
