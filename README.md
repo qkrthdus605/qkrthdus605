@@ -6,7 +6,6 @@
 </div>
 <div align=left><h3>🧡Languages&Framework</h3></div>
 <div align=left>
-<br>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/next-61DAFB?style=for-the-badge&logo=next&logoColor=red">
   <img src="https://img.shields.io/badge/express-61DAFB?style=for-the-badge&logo=express&logoColor=blue">
@@ -20,7 +19,6 @@
 <br>
 <div align=left><h3>💛Design</h3></div>
 <div align=left>
-<br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20XD-%23FF9A00.svg?style=for-the-badge&logo=adobe%20XD&logoColor=pink">
   <img src="https://img.shields.io/badge/Storybook-%23F24E1E.svg?style=for-the-badge&logo=Storybook&logoColor=yellow">
