@@ -37,9 +37,11 @@ I am a college student who wants to become a front-end developer😊
  <img src="https://img.shields.io/badge/Slack-%23121011.svg?style=for-the-badge&logo=Slack&logoColor=blue">
 <br>
 <br>
-<div align=left><h3>My Note</h3></div>
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605&show_icons=true&theme=radical)
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605s&show_icons=true&theme=radical)
+<div align=left><h3>My Note</h3></div>
   
 [Soyeon's Velog](https://velog.io/@qkrthdus605)
 
