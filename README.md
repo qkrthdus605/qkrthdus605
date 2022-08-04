@@ -28,7 +28,9 @@ I am a college student who wants to become a front-end developer😊
 </div>
 <br>
 
-<div align=center>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605&show_icons=true&theme=radical)</div>
+<div align=center>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605&show_icons=true&theme=radical)
+</div>
 
 <div align=center><h3>My Note</h3></div>
   
