@@ -25,14 +25,10 @@ I am a college student who wants to become a front-end developer😊
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=blue"> 
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=github&logoColor=black">
   <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=black">
-</div>
-<br>
-
-<div align=center>
+  <br>
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrthdus605&layout=compact&theme=radical)
 </div>
-
 <br>
 <br>
 <br>
