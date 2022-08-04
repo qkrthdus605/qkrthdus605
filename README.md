@@ -2,6 +2,12 @@
 I am a college student who wants to become a front-end developer😊
 <br>
 <br>
+<div align="center">
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605&show_icons=true&theme=radical)
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrthdus605&layout=compact&theme=radical)
+</div>
+<br>
 <div align=center><h2>🛠Tech STACKS🛠</h2></div>
 </div>
 <div align="center">
@@ -26,11 +32,6 @@ I am a college student who wants to become a front-end developer😊
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=github&logoColor=black">
   <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=black">
   <br>
-  <div align="center">
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605&show_icons=true&theme=radical)
-    <br>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrthdus605&layout=compact&theme=radical)
-  </div>
 </div>
 <br>
 <br>
