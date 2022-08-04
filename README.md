@@ -20,7 +20,7 @@ I am a college student who wants to become a front-end developer😊
   <img src= "https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
   <br>
   <img src= "https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+  <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=yellow"> 
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=blue"> 
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=github&logoColor=black">
@@ -28,8 +28,10 @@ I am a college student who wants to become a front-end developer😊
 </div>
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605&show_icons=true&theme=radical)
-
+<div align=center>
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrthdus605&layout=compact&theme=radical)
+</div>
 
 <br>
 <br>
