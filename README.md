@@ -1,5 +1,5 @@
 # Hi there!
-
+I am a college student who wants to become a front-end developer😊
 <br>
 <br>
 <div align=left><h2>🛠Tech STACKS🛠</h2></div>
@@ -32,7 +32,7 @@
 <br>
 <div align=left><h3>💜Team Collaboration Tool</h3></div>
 <div align=left>
- <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=red">
  <img src="https://img.shields.io/badge/Notion-%23121011.svg?style=for-the-badge&logo=Notion&logoColor=yellow">
  <img src="https://img.shields.io/badge/Slack-%23121011.svg?style=for-the-badge&logo=Slack&logoColor=blue">
 <br>
