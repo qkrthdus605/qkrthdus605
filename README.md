@@ -2,7 +2,7 @@
 I am a college student who wants to become a front-end developer😊
 <br>
 <br>
-<div align=left><h2>🛠Tech STACKS🛠</h2></div>
+<div align=center><h2>🛠Tech STACKS🛠</h2></div>
 </div>
 <div align=left><h3>🧡Languages&Framework</h3></div>
 <div align=left>
