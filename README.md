@@ -39,6 +39,8 @@ I am a college student who wants to become a front-end developer😊
 <br>
 <div align=left><h3>My Note</h3></div>
   
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605s&show_icons=true&theme=radical)
+  
 [Soyeon's Velog](https://velog.io/@qkrthdus605)
 
 <br>
