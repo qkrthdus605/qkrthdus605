@@ -1,11 +1,14 @@
 # Hi there!
-I am a college student who wants to become a front-end developer😊
+I am a college student who wants to become a front-end developer😊<br>
 I'll do my best for Dreams Come True!🌈
 <br>
 <br>
 
-<div align=center><h2>🛠Tech STACKS🛠</h2></div>
-Tech stacks that I've used at least once!
+<div align=center>
+  <h2>🛠Tech STACKS🛠</h2>
+  <br>
+  Tech stacks that I've used at least once!
+</div>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
