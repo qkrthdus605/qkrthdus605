@@ -37,13 +37,6 @@ I'll do my best for Dreams Come True!🌈
 <br>
 <br>
 
-<div align="center">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkrthdus605&show_icons=true&theme=radical)
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrthdus605&layout=compact&theme=radical)
-</div>
-<br>
-
 <br>
 <br>
 </div>
