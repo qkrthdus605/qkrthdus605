@@ -9,11 +9,12 @@ I'll do my best for Dreams Come True!🌈
   <br>
   Tech stacks that I've used at least once!
   <br>
+  <br>
 </div>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next&logoColor=red">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=red">
   <img src="https://img.shields.io/badge/Express-61DAFB?style=for-the-badge&logo=express&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
