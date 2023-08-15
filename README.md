@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Express-61DAFB?style=plastic&logo=express&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=plastic&logo=styledcomponents&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=plastic&logo=styled%20components&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
@@ -29,13 +29,13 @@
 <br>
 <div align="left">
   <h2>✨ Collaboration Tools & ETC</h2>
-  <img src= "https://img.shields.io/badge/vercel-000000.svg?style=plastic&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=plastic&logo=netlify&logoColor=white">
+  <img src= "https://img.shields.io/badge/Vercel-000000.svg?style=plastic&logo=Vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=plastic&logo=Netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=plastic&logo=Notion&logoColor=yellow"> 
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=plastic&logo=Slack&logoColor=blue">
   <img src="https://img.shields.io/badge/Github-181717.svg?style=plastic&logo=github&logoColor=black">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/adobe%20XD-FF61F6.svg?style=plastic&logo=adobe%20XD&logoColor=pink">
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=plastic&logo=Adobe%20XD&logoColor=pink">
 </div>
 <br>
 <div align="left">
