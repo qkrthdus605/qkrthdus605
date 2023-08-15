@@ -43,8 +43,8 @@
   <a href="https://velog.io/@qkrthdus605">
     <img src= "https://img.shields.io/badge/Velog-20C997.svg?style=plastic&logo=Velog&logoColor=white">
   </a>
-  <a href = "qkkrthdus605@gmail.com">
-    <img src= "https://img.shields.io/badge/Gmail-EA4335.svg?style=plastic&logo=Gmail&logoColor=white">
+  <a href = "mailto:qkrthdus605@gmail.com">
+    <img src= "https://img.shields.io/badge/Gmail-EA4335.svg?style=plastic&logo=Gmail&logoColor=white&link=mailto:qkrthdus605@gmail.com">
   </a>   
 </div>
 
