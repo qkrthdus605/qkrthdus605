@@ -1,14 +1,12 @@
 # Hi there!
-I am a college student who wants to become a front-end developer😊<br>
-I'll do my best for Dreams Come True!🌈
+🌱 I am a college student who wants to become a front-end developer<br>
+🌈 I'll do my best for Dreams Come True!
 <br>
 <br>
 
 <div align=left>
   <h2>🛠 Tech Stacks</h2>
-  <br>
   Tech stacks that I've used at least once!
-  <br>
   <br>
 </div>
 </div>
@@ -18,7 +16,7 @@ I'll do my best for Dreams Come True!🌈
   <img src="https://img.shields.io/badge/Express-61DAFB?style=plastic&logo=express&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=plastic&logo=styledcomponents&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=plastic&logo=styledcomponents&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
@@ -31,7 +29,6 @@ I'll do my best for Dreams Come True!🌈
 <br>
 <div align="left">
   <h2>✨ Collaboration Tools & ETC</h2>
-  <br>
   <img src= "https://img.shields.io/badge/vercel-000000.svg?style=plastic&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=plastic&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=plastic&logo=Notion&logoColor=yellow"> 
@@ -41,6 +38,15 @@ I'll do my best for Dreams Come True!🌈
   <img src="https://img.shields.io/badge/adobe%20XD-FF61F6.svg?style=plastic&logo=adobe%20XD&logoColor=pink">
 </div>
 <br>
+<div align="left">
+  <h2>📨 Contacts</h2>
+  <a href="https://velog.io/@qkrthdus605">
+    <img src= "https://img.shields.io/badge/Velog-20C997.svg?style=plastic&logo=Velog&logoColor=white">
+  </a>
+  <a href = "qkkrthdus605@gmail.com">
+    <img src= "https://img.shields.io/badge/Gmail-EA4335.svg?style=plastic&logo=Gmail&logoColor=white">
+  </a>   
+</div>
 
 <br>
 <br>
