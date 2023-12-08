@@ -1,6 +1,5 @@
-## Hi there!
-🌱 I'm Junior Front-end Developer.<br>
-<br>
+## 👋 Hi there!
+### 🌱 I'm Junior Front-end Developer.
 <br>
 
 <div align=left>
