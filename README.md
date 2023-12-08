@@ -1,6 +1,5 @@
-# Hi there!
-🌱 I am a college student who wants to become a front-end developer<br>
-🌈 I'll do my best for Dreams Come True!
+## Hi there!
+🌱 I'm Junior Front-end Developer.<br>
 <br>
 <br>
 
