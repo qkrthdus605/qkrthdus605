@@ -1,3 +1,6 @@
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkrthdus605&count_bg=%23D5A1FF&title_bg=%23B9CCFF&icon=github.svg&icon_color=%23FFFEFE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 👋 Hi there!
 ### 🌱 I'm Junior Front-end Developer.
 <br>
@@ -46,6 +49,8 @@
 </div>
 
 <br>
-<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrthdus605&layout=compact)](https://github.com/qkrthdus605/github-readme-stats)
+
 </div>
 
