@@ -5,7 +5,6 @@
 <div align=left>
   <h2>🛠 Tech Stacks</h2>
   <h4>Tech stacks that I've used at least once!</h4>
-  <br>
 </div>
 </div>
 <div align="left">
