@@ -49,8 +49,5 @@
 </div>
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrthdus605&layout=compact)](https://github.com/qkrthdus605/github-readme-stats)
-
 </div>
 
